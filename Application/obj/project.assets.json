@@ -1154,11 +1154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1175,11 +1175,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Domain\\Domain.csproj"
+            "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Persistence\\Persistence.csproj"
             }
           }
         }

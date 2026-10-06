@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyle\\Documents\\vscNew\\kyle-krugel\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Kyle\\Documents\\vs18_folder\\kyle-krugel-itdev162\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
